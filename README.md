@@ -8,4 +8,5 @@
 🧍 Escalation Process
 🦺 PPE Required
 ⚠️ Special Instructions
-![SOP](https://github.com/user-attachments/assets/ddc77f76-d449-4de1-81b8-1e9f45f15002)
+
+![image](https://github.com/user-attachments/assets/de8708db-c420-4899-b129-0731d2d9bf46)
